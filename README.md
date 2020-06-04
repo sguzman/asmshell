@@ -1,3 +1,6 @@
+### Changes
+I moved all the go file up a directory so `go get` works
+
 Assembler Shell(asmshell)
 ==============
 
